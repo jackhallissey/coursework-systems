@@ -1,4 +1,4 @@
-Coursework for CS2518 (Operating Systems) and CS2507 (Computer Architecture).
+Coursework in C, Bash and Assembly for the modules CS2518 (Operating Systems) and CS2507 (Computer Architecture).
 
 # Operating Systems
 
